@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://ticketsupportsystem-jyothireddypula.netlify.app/
+**URL**: https://ticketsystemsupport-jyothireddypula.netlify.app/
 
 
 
